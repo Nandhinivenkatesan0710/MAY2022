@@ -5,6 +5,9 @@ public class May {
 		
 		int a = 10;
 		System.out.println(a);
+		
+		long b = 1787877l;
+		System.out.println(b);
 	}
 
 }
